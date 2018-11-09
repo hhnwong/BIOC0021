@@ -1,0 +1,25 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Perica et~al.(2018)Perica, Curran, Brentjens, and
+  Giralt]{PERICA20181135}
+Karlo Perica, Kevin~J. Curran, Renier~J. Brentjens, and Sergio~A. Giralt.
+\newblock Building a car garage: Preparing for the delivery of commercial car t
+  cell products at memorial sloan kettering cancer center.
+\newblock \emph{Biology of Blood and Marrow Transplantation}, 24\penalty0
+  (6):\penalty0 1135 -- 1141, 2018.
+\newblock ISSN 1083-8791.
+
+\bibitem[Knochelmann et~al.(2018)Knochelmann, Smith, Dwyer, Wyatt, Mehrotra,
+  and Paulos]{CAR}
+Hannah~M. Knochelmann, Aubrey~S. Smith, Connor~J. Dwyer, Megan~M. Wyatt,
+  Shikhar Mehrotra, and Chrystal~M. Paulos.
+\newblock Car t cells in solid tumors: Blueprints for building effective
+  therapies.
+\newblock \emph{Frontiers in Immunology}, 9:\penalty0 1740, 2018.
+
+\end{thebibliography}
