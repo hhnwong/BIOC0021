@@ -1,25 +1,1093 @@
-\begin{thebibliography}{2}
+\begin{thebibliography}{130}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Perica et~al.(2018)Perica, Curran, Brentjens, and
-  Giralt]{PERICA20181135}
-Karlo Perica, Kevin~J. Curran, Renier~J. Brentjens, and Sergio~A. Giralt.
-\newblock Building a car garage: Preparing for the delivery of commercial car t
-  cell products at memorial sloan kettering cancer center.
-\newblock \emph{Biology of Blood and Marrow Transplantation}, 24\penalty0
-  (6):\penalty0 1135 -- 1141, 2018.
-\newblock ISSN 1083-8791.
+\bibitem[Gideon~Gross(1989)]{first}
+Zelig~Eshhar Gideon~Gross, Tova~Waks.
+\newblock Expression of immunoglobulin-t-cell receptor chimeric molecules as
+  functional receptors with antibody-type specificity.
+\newblock \emph{Proc Natl Acad Sci USA}, 86\penalty0 (24):\penalty0
+  10024–10028, 1989.
+
+\bibitem[Kuwana et~al.(1987)Kuwana, Asakura, Utsunomiya, Nakanishi, Arata,
+  Itoh, Nagase, and Kurosawa]{KUWANA1987960}
+Yoshihisa Kuwana, Yoshihiro Asakura, Naoko Utsunomiya, Mamoru Nakanishi, Yohji
+  Arata, Seiga Itoh, Fumihiko Nagase, and Yoshikazu Kurosawa.
+\newblock Expression of chimeric receptor composed of immunoglobulin-derived v
+  resions and t-cell receptor-derived c regions.
+\newblock \emph{Biochemical and Biophysical Research Communications},
+  149\penalty0 (3):\penalty0 960 -- 968, 1987.
+
+\bibitem[Pharmatimes(2018{\natexlab{a}})]{Kymriah}
+Pharmatimes.
+\newblock Kymriah, 2018{\natexlab{a}}.
+\newblock URL
+  \url{http://www.pharmatimes.com/news/nhs_england_strikes_deal_with_novartis_on_kymriah_1251397}.
+\newblock Accessed = 01/02/2019.
+
+\bibitem[Pharmatimes(2018{\natexlab{b}})]{Yescarta}
+Pharmatimes.
+\newblock Yescarta, 2018{\natexlab{b}}.
+\newblock URL
+  \url{http://www.pharmatimes.com/news/gilead_strikes_deal_with_nhs_england_on_yescarta_access_1254812}.
+\newblock Accessed = 01/02/2019.
+
+\bibitem[UK(2015)]{CRUK}
+Cancer~Research UK.
+\newblock Cancer incidence for common cancers, 2015.
+\newblock URL
+  \url{https://www.cancerresearchuk.org/health-professional/cancer-statistics/incidence/common-cancers-compared#ref-}.
+\newblock Accessed = 09/02/2019.
+
+\bibitem[Bryan A.~Irving(1991)]{CD3}
+Arthur~Weiss Bryan A.~Irving.
+\newblock The cytoplasmic domain of the t cell receptor zeta chain is
+  sufficient to couple to receptor-associated signal transduction pathways.
+\newblock \emph{Cell}, 64\penalty0 (5):\penalty0 891 -- 901, 1991.
+
+\bibitem[FA et~al.(1992)FA, JG, JA, DH, and JP]{survival}
+Harding FA, McArthur JG, Gross JA, Raulet DH, and Allison JP.
+\newblock Cd28-mediated signalling co-stimulates murine t cells and prevents
+  induction of anergy in t-cell clones.
+\newblock \emph{Nature}, 356\penalty0 (6370):\penalty0 607 – 609, 1992.
+
+\bibitem[Thompson et~al.(1989)Thompson, Lindsten, Ledbetter, Kunkel, Young,
+  Emerson, Leiden, and June]{activation}
+C~B Thompson, T~Lindsten, J~A Ledbetter, S~L Kunkel, H~A Young, S~G Emerson,
+  J~M Leiden, and C~H June.
+\newblock Cd28 activation pathway regulates the production of multiple
+  t-cell-derived lymphokines and cytokines.
+\newblock \emph{Proc. Natl. Acad. Sci. USA}, 86:\penalty0 1333 -- 1337, 1989.
+
+\bibitem[Long et~al.(2015{\natexlab{a}})Long, Haso, Shern, Wanhainen, Murgai,
+  Ingaramo, Smith, Walker, Kohler, Venkateshwara, Kaplan, Patterson, Fry,
+  Orentas, and Mackall]{exhaustion}
+Adrienne~H. Long, Waleed~M. Haso, Jack~F. Shern, Kelsey~M. Wanhainen, Meera
+  Murgai, Maria Ingaramo, Jillian~P. Smith, Alec~J. Walker, M.~Eric Kohler,
+  Vikas~R. Venkateshwara, Rosandra~N. Kaplan, George~H. Patterson, Terry~J.
+  Fry, Rimas~J. Orentas, and Crystal~L. Mackall.
+\newblock 4-1bb costimulation ameliorates t cell exhaustion induced by tonic
+  signaling of chimeric antigen receptors.
+\newblock \emph{Nat Med}, 21\penalty0 (6):\penalty0 581 -- 590,
+  2015{\natexlab{a}}.
+
+\bibitem[van~der Stegen et~al.(2015)van~der Stegen, Hamieh, and
+  Sadelain]{CD28-1}
+Sjoukje J.~C. van~der Stegen, Mohamad Hamieh, and Michel Sadelain.
+\newblock The pharmacology of second-generation chimeric antigen receptors.
+\newblock \emph{Nature Reviews Drug Discovery}, 14:\penalty0 499 -- 509, 2015.
+
+\bibitem[Kawalekar et~al.(2016)Kawalekar, O’Connor, Fraietta, Guo,
+  McGettigan, Jr., Patel, Guedan, Scholler, Keith, Snyder, Blair, Milone, and
+  June]{CD28-2}
+Omkar~U. Kawalekar, Roddy~S. O’Connor, Joseph~A. Fraietta, Lili Guo,
+  Shannon~E. McGettigan, Avery D.~Posey Jr., Prachi~R. Patel, Sonia Guedan,
+  John Scholler, Brian Keith, Nathaniel~W. Snyder, Ian~A. Blair, Michael~C.
+  Milone, and Carl~H. June.
+\newblock Distinct signaling of coreceptors regulates specific metabolism
+  pathways and impacts memory development in car t cells.
+\newblock \emph{Immunity}, 44\penalty0 (2):\penalty0 380 -- 390, 2016.
+
+\bibitem[Milone et~al.(2009{\natexlab{a}})Milone, Fish, Carpenito, Carroll,
+  Binder, Teachey, Samanta, Lakhal, Gloss, Danet-Desnoyers, Campana, Riley,
+  Grupp, and June]{CD28-3}
+Michael~C. Milone, Jonathan~D. Fish, Carmine Carpenito, Richard~G. Carroll,
+  Gwendolyn~K. Binder, David Teachey, Minu Samanta, Mehdi Lakhal, Brian Gloss,
+  Gwenn Danet-Desnoyers, Dario Campana, James~L. Riley, Stephan~A. Grupp, and
+  Carl~H. June.
+\newblock Chimeric receptors containing cd137 signal transduction domains
+  mediate enhanced survival of t cells and increased antileukemic efficacy in
+  vivo.
+\newblock \emph{Molecular Therapy}, 17\penalty0 (8):\penalty0 1453 -- 1464,
+  2009{\natexlab{a}}.
+
+\bibitem[Kalos et~al.(2011)Kalos, Levine, Porter, Katz, Grupp, Bagg, and
+  June]{4-1BB}
+Michael Kalos, Bruce~L. Levine, David~L. Porter, Sharyn Katz, Stephan~A. Grupp,
+  Adam Bagg, and Carl~H. June.
+\newblock T cells with chimeric antigen receptors have potent antitumor effects
+  and can establish memory in patients with advanced leukemia.
+\newblock \emph{Leukemia}, 3\penalty0 (95):\penalty0 95ra73, 2011.
+
+\bibitem[Frauwirth et~al.(2002)Frauwirth, Riley, Harris, Parry, Rathmell, Plas,
+  nad Carl H.~June, and Thompson]{CD28-5}
+Kenneth~A. Frauwirth, James~L. Riley, Marian~H. Harris, Richard~V. Parry,
+  Jeffrey~C. Rathmell, David~R. Plas, Rebecca L.~Elstrom nad Carl H.~June, and
+  Craig~B. Thompson.
+\newblock The cd28 signaling pathway regulates glucose metabolism.
+\newblock \emph{Immunity}, 16:\penalty0 769 -- 777, 2002.
+
+\bibitem[Long et~al.(2015{\natexlab{b}})Long, Haso, Shern, Wanhainen, Murgai,
+  Ingaramo, Smith, Walker, Kohler, Venkateshwara, Kaplan, and et.
+  al]{CD28-4-1BB-3}
+Adrienne~H Long, Waleed~M Haso, Jack~F Shern, Kelsey~M Wanhainen, Meera Murgai,
+  Maria Ingaramo, Jillian~P Smith, Alec~J Walker, M~Eric Kohler, Vikas~R
+  Venkateshwara, Rosandra~N Kaplan, and George H~Patterson et. al.
+\newblock 4-1bb costimulation ameliorates t cell exhaustion induced by tonic
+  signaling of chimeric antigen receptors.
+\newblock \emph{Nature Medicine}, 21\penalty0 (6):\penalty0 581 -- 590,
+  2015{\natexlab{b}}.
+
+\bibitem[Coles et~al.(2012)Coles, Hills, Wang, Burnett, Man, Darley, and
+  Tonks]{CD200}
+S~J Coles, R~K Hills, E~C~Y Wang, A~K Burnett, S~Man, R~L Darley, and A~Tonks.
+\newblock Expression of cd200 on aml blasts directly suppresses memory t-cell
+  function.
+\newblock \emph{Leukemia}, 26:\penalty0 2142 -- 2158, 2012.
+
+\bibitem[Milone et~al.(2009{\natexlab{b}})Milone, Fish, Carpenito, Carroll,
+  Binder, Teachey, Samanta, Lakhal, Gloss, Danet-Desnoyers, Campana, Riley,
+  Grupp, and June]{CD137}
+Michael~C. Milone, Jonathan~D. Fish, Carmine Carpenito, Richard~G. Carroll,
+  Gwendolyn~K. Binder, David Teachey, Minu Samanta, Mehdi Lakhal, Brian Gloss,
+  Gwenn Danet-Desnoyers, Dario Campana, James~L. Riley, Stephan~A. Grupp, and
+  Carl~H. June.
+\newblock Chimeric receptors containing cd137 signal transduction domains
+  mediate enhanced survival of t cells and increased antileukemic efficacy in
+  vivo.
+\newblock \emph{Molecular Therapy}, 17\penalty0 (8):\penalty0 1453 – 1464,
+  2009{\natexlab{b}}.
+
+\bibitem[Wang et~al.(2007)Wang, Jensen, Lin, Sui, Chen, Lindgren, Till,
+  Raubitschek, Forman, Qian, James, Greenberg, Riddell, and
+  Press]{CD28-4-1BB-1}
+Jinjuan Wang, Michael Jensen, Yukang Lin, Xingwei Sui, Eric Chen, Catherine~G.
+  Lindgren, Brian Till, Andrew Raubitschek, Stephen~J. Forman, Xiaojun Qian,
+  Scott James, Philip Greenberg, Stanley Riddell, and Oliver~W. Press.
+\newblock Optimizing adoptive polyclonal t cell immunotherapy of lymphomas,
+  using a chimeric t cell receptor possessing cd28 and cd137 costimulatory
+  domains.
+\newblock \emph{Human Gene Therapy}, 18\penalty0 (8):\penalty0 712 -- 725,
+  2007.
+
+\bibitem[Zhong et~al.(2010)Zhong, Matsushita, Plotkin, Riviere, and
+  Sadelain]{CD28-4-1BB-2}
+Xiao-Song Zhong, Maiko Matsushita, Jason Plotkin, Isabelle Riviere, and Michel
+  Sadelain.
+\newblock Chimeric antigen receptors combining 4-1bb and cd28 signaling domains
+  augment pi3kinase/akt/bcl-xl activation and cd8+ t cell–mediated tumor
+  eradication.
+\newblock \emph{Molecular Therapy}, 18\penalty0 (2):\penalty0 413 -- 420, 2010.
+
+\bibitem[Chmielewski et~al.(2011)Chmielewski, Kopecky, Hombach, and
+  Abken]{il12}
+Markus Chmielewski, Caroline Kopecky, Andreas~A. Hombach, and Hinrich Abken.
+\newblock Il-12 release by engineered t cells expressing chimeric antigen
+  receptors can effectively muster an antigen-independent macrophage response
+  on tumor cells that have shut down tumor antigen expression.
+\newblock \emph{Cancer Research}, 71\penalty0 (17):\penalty0 697 – 706, 2011.
+
+\bibitem[Zhang et~al.(2011)Zhang, Kerkar, Yu, Zheng, Yang, Restifo, Rosenberg,
+  and Morgan]{il122}
+Ling Zhang, Sid~P Kerkar, Zhiya Yu, Zhili Zheng, Shicheng Yang, Nicholas~P
+  Restifo, Steven~A Rosenberg, and Richard~A Morgan.
+\newblock Improving adoptive t cell therapy by targeting and controlling il-12
+  expression to the tumor environment.
+\newblock \emph{Molecular Therapy}, 19\penalty0 (4):\penalty0 751 – 759,
+  2011.
+
+\bibitem[Watkins et~al.(2007)Watkins, Egilmez, Suttles, and Stout]{il12macro}
+Stephanie~K. Watkins, Nejat~K. Egilmez, Jill Suttles, and Robert~D. Stout.
+\newblock Il-12 rapidly alters the functional profile of tumor-associated and
+  tumor-infiltrating macrophages in vitro and in vivo.
+\newblock \emph{The Journal of Immunology}, 178\penalty0 (3):\penalty0 1357 –
+  1362, 2007.
+
+\bibitem[Nishimura et~al.(2000)Nishimura, Yajima, Naiki, Tsunobuchi, Umemura,
+  Itano, Matsuguchi, Suzuki, Ohashi, and Yoshikai]{il15cd}
+Hitoshi Nishimura, Toshiki Yajima, Yoshikazu Naiki, Hironaka Tsunobuchi,
+  Masayuki Umemura, Keiko Itano, Tetsuya Matsuguchi, Misao Suzuki, Pamela~S.
+  Ohashi, and Yasunobu Yoshikai.
+\newblock Differential roles of interleukin 15 mrna isoforms generated by
+  alternative splicing in immune responses in vivo.
+\newblock \emph{Journal of Experimental Medicine}, 191\penalty0 (1):\penalty0
+  157 – 169, 2000.
+
+\bibitem[Liew and McInnes(2002)]{il18}
+F~Y Liew and I~B McInnes.
+\newblock Role of interleukin 15 and interleukin 18 in inflammatory response.
+\newblock \emph{Annals of the Rheumatic Diseases}, 61:\penalty0 100 – 102,
+  2002.
+
+\bibitem[CN et~al.(2003)CN, AD, and M]{NKT}
+Baxevanis CN, Gritzapis AD, and Papamichail M.
+\newblock In vivo antitumor activity of nkt cells activated by the combination
+  of il-12 and il-18.
+\newblock \emph{The Journal of Immunology}, 171\penalty0 (6):\penalty0 2953 –
+  2959, 2003.
+
+\bibitem[Macatonia et~al.(1995)Macatonia, Hosken, M~Litton, Hsieh, Culpepper,
+  Wysocka, Trinchieri, Murphy, and O'Garra]{cd4il12}
+S~E Macatonia, N~A Hosken, P~Vieira M~Litton, C~S Hsieh, J~A Culpepper,
+  M~Wysocka, G~Trinchieri, K~M Murphy, and A~O'Garra.
+\newblock Dendritic cells produce il-12 and direct the development of th1 cells
+  from naive cd4+ t cells.
+\newblock \emph{The Journal of Immunology}, 154\penalty0 (10):\penalty0 5071
+  – 5079, 1995.
+
+\bibitem[Hsieh et~al.(1993)Hsieh, Macatonia, Tripp, Wolf, and
+  A~O'Garra]{cd4il122}
+CS~Hsieh, SE~Macatonia, CS~Tripp, SF~Wolf, and KM~Murphy A~O'Garra.
+\newblock Development of th1 cd4+ t cells through il-12 produced by
+  listeria-induced macrophages.
+\newblock \emph{Science}, 260\penalty0 (5107):\penalty0 547 – 549, 1993.
+
+\bibitem[Yoo et~al.(2002)Yoo, Cho, Lee, and Sung]{cd4il123}
+Jae~Kwang Yoo, Jae~Ho Cho, Seung~Woo Lee, and Young~Chul Sung.
+\newblock Il-12 provides proliferation and survival signals to murine cd4+ t
+  cells through phosphatidylinositol 3-kinase/akt signaling pathway.
+\newblock \emph{The Journal of Immunology}, 169\penalty0 (7):\penalty0 3637 –
+  3643, 2002.
+
+\bibitem[Wesa et~al.(2007)Wesa, Kalinski, Kirkwood, Tatsumi, and
+  Storkus]{cd4il124}
+Amy Wesa, Pawel Kalinski, John~M. Kirkwood, Tomohide Tatsumi, and Walter~J.
+  Storkus.
+\newblock Polarized type-1 dendritic cells (dc1) producing high levels of il-12
+  family members rescue patient th1-type antimelanoma cd4+ t cell responses in
+  vitro.
+\newblock \emph{Journal of Immunotherapy}, 30\penalty0 (1):\penalty0 75 – 82,
+  2007.
+
+\bibitem[J.Smith et~al.(2016)J.Smith, Oertle, Warren, and Prato]{fig1}
+Aaron J.Smith, John Oertle, Dan Warren, and Dino Prato.
+\newblock Chimeric antigen receptor (car) t cell therapy for malignant cancers:
+  Summary and perspective.
+\newblock \emph{Journal of Cellular Immunotherapy}, 2\penalty0 (2):\penalty0 59
+  -- 68, 2016.
+
+\bibitem[Qin et~al.(2017)Qin, Lai, Zhao, Wei, Weng, Lai, Li, Lin, Wang, Wu,
+  Liang, and et. al]{hinge}
+Le~Qin, Yunxin Lai, Ruocong Zhao, Xinru Wei, Jianyu Weng, Peilong Lai, Baiheng
+  Li, Simiao Lin, Suna Wang, Qiting Wu, Qiubin Liang, and Yangqiu~Li et. al.
+\newblock Incorporation of a hinge domain improves the expansion of chimeric
+  antigen receptor t cells.
+\newblock \emph{Journal of Hematology \& Oncology}, 10\penalty0 (68), 2017.
+
+\bibitem[Almåsbak et~al.(2015)Almåsbak, Walseng, Kristian, Myhre, Suso,
+  Munthe, Andersen, Wang, Kvalheim, Gaudernack, and Kyte]{hinge-2}
+H~Almåsbak, E~Walseng, A~Kristian, MR~Myhre, EM~Suso, LA~Munthe, JT~Andersen,
+  MY~Wang, G~Kvalheim, G~Gaudernack, and JA~Kyte.
+\newblock Inclusion of an igg1-fc spacer abrogates efficacy of cd19 car t cells
+  in a xenograft mouse model.
+\newblock \emph{Gene Therapy}, 22, 2015.
+
+\bibitem[Hombach et~al.(2010)Hombach, Hombach, and Abken]{hinge-3}
+A~Hombach, A~A Hombach, and H~Abken.
+\newblock Adoptive immunotherapy with genetically engineered t cells:
+  modification of the igg1 fc ‘spacer’ domain in the extracellular moiety
+  of chimeric antigen receptors avoids ‘off-target’ activation and
+  unintended initiation of an innate immune response.
+\newblock \emph{Gene Therapy}, 17, 2010.
+
+\bibitem[Watanabe et~al.(2016)Watanabe, Bajgain, Sukumaran, Ansari, Heslop,
+  Rooney, Brenner, Leen, and Vera]{hinge-7}
+Norihiro Watanabe, Pradip Bajgain, Sujita Sukumaran, Salma Ansari, Helen~E.
+  Heslop, Cliona~M. Rooney, Malcolm~K. Brenner, Ann~M. Leen, and Juan~F. Vera.
+\newblock Fine-tuning the car spacer improves t-cell potency.
+\newblock \emph{Oncoimmunology}, 5\penalty0 (12), 2016.
+
+\bibitem[Jonnalagadda et~al.(2015)Jonnalagadda, Mardiros, Urak, Wang, Hoffman,
+  Bernanke, Chang, Bretzlaff, Starr, Priceman, Ostberg, Forman, and
+  Brown]{hinge-4}
+Mahesh Jonnalagadda, Armen Mardiros, Ryan Urak, Xiuli Wang, Lauren~J Hoffman,
+  Alyssa Bernanke, Wen-Chung Chang, William Bretzlaff, Renate Starr, Saul
+  Priceman, Julie~R Ostberg, Stephen~J Forman, and Christine~E Brown.
+\newblock Chimeric antigen receptors with mutated igg4 fc spacer avoid fc
+  receptor binding and improve t cell persistence and antitumor efficacy.
+\newblock \emph{Molecular Therapy}, 23\penalty0 (4), 2015.
+
+\bibitem[CE et~al.(2018)CE, B, R, X, WC, L, B, A, A, JF, JR, M, B, ME, and
+  SJ]{hinge-5}
+Brown CE, Aguilar B, Starr R, Yang X, Chang WC, Weng L, Chang B, Sarkissian A,
+  Brito A, Sanchez JF, Ostberg JR, D'Apuzzo M, Badie B, Barish ME, and Forman
+  SJ.
+\newblock Optimization of il13ra2-targeted chimeric antigen receptor t cells
+  for improved anti-tumor efficacy against glioblastoma.
+\newblock \emph{Molecular Therapy}, 26\penalty0 (1), 2018.
+
+\bibitem[Guest et~al.(2005)Guest, Hawkins, Kirillova, Cheadle, Arnold, O'Neill,
+  Irlam, Chester, Kemshead, Shaw, Embleton, Stern, and Gilham]{hinge-6}
+Ryan Guest, Robert Hawkins, Natalia Kirillova, Eleanor Cheadle, Jennifer
+  Arnold, Allison O'Neill, Joely Irlam, Kerry Chester, John Kemshead, David
+  Shaw, M~Embleton, Peter Stern, and David Gilham.
+\newblock The role of extracellular spacer regions in the optimal design of
+  chimeric immune receptors: Evaluation of four different scfvs and antigens.
+\newblock \emph{Journal of Immunotherapy}, 28\penalty0 (3), 2005.
+
+\bibitem[Davila et~al.(2014)Davila, Riviere, Wang, Bartido, Park, Curran,
+  Chung, Stefanski, Borquez-Ojeda, Olszewska, Qu, Wasielewska, He, Fink,
+  Shinglot, Youssif, Satter, Wang, Hosey, Quintanilla, Halton, Bernal,
+  Bouhassira, Arcila, Gonen, Roboz, Maslak, Douer, Frattini, Giralt, Sadelain,
+  and Brentjens]{ALL}
+Marco~L. Davila, Isabelle Riviere, Xiuyan Wang, Shirley Bartido, Jae Park,
+  Kevin Curran, Stephen~S. Chung, Jolanta Stefanski, Oriana Borquez-Ojeda,
+  Malgorzata Olszewska, Jinrong Qu, Teresa Wasielewska, Qing He, Mitsu Fink,
+  Himaly Shinglot, Maher Youssif, Mark Satter, Yongzeng Wang, James Hosey,
+  Hilda Quintanilla, Elizabeth Halton, Yvette Bernal, Diana C.~G. Bouhassira,
+  Maria~E. Arcila, Mithat Gonen, Gail~J. Roboz, Peter Maslak, Dan Douer,
+  Mark~G. Frattini, Sergio Giralt, Michel Sadelain, and Renier Brentjens.
+\newblock Efficacy and toxicity management of 19-28z car t cell therapy in b
+  cell acute lymphoblastic leukemia.
+\newblock \emph{Science Translational Medicine}, 6\penalty0 (224):\penalty0 224
+  – 225, 2014.
+
+\bibitem[Maude et~al.(2014{\natexlab{a}})Maude, Frey, Shaw, Aplenc, Barrett,
+  Bunin, Chew, Gonzalez, Zheng, Lacey, Mahnke, Melenhorst, Rheingold, Shen,
+  Teachey, Levine, June, Porter, and Grupp]{ALL2}
+Shannon~L. Maude, Noelle Frey, Pamela~A. Shaw, Richard Aplenc, David~M.
+  Barrett, Nancy~J. Bunin, Anne Chew, Vanessa~E. Gonzalez, Zhaohui Zheng,
+  Simon~F. Lacey, Yolanda~D. Mahnke, Jan~J. Melenhorst, Susan~R. Rheingold,
+  Angela Shen, David~T. Teachey, Bruce~L. Levine, Carl~H. June, David~L.
+  Porter, and Stephan~A. Grupp.
+\newblock Chimeric antigen receptor t cells for sustained remissions in
+  leukemia.
+\newblock \emph{The New England Journal of Medicine}, 371\penalty0
+  (16):\penalty0 1507 -- 1517, 2014{\natexlab{a}}.
+
+\bibitem[Maude et~al.(2015)Maude, Teachey, Porter, and Grupp]{acute}
+Shannon~L. Maude, David~T. Teachey, David~L. Porter, and Stephan~A. Grupp.
+\newblock Cd19-targeted chimeric antigen receptor t-cell therapy for acute
+  lymphoblastic leukemia.
+\newblock \emph{Blood}, 125\penalty0 (26):\penalty0 4017 -- 4023, 2015.
+
+\bibitem[DW et~al.(2015)DW, JN, M, YK, C, SA, TJ, R, M, NN, SM, D, N, C, H, L,
+  SA, AS, and CL]{acute2}
+Lee DW, Kochenderfer JN, Stetler-Stevenson M, Cui YK, Delbrook C, Feldman SA,
+  Fry TJ, Orentas R, Sabatino M, Shah NN, Steinberg SM, Stroncek D, Tschernia
+  N, Yuan C, Zhang H, Zhang L, Rosenberg SA, Wayne AS, and Mackall CL.
+\newblock T cells expressing cd19 chimeric antigen receptors for acute
+  lymphoblastic leukaemia in children and young adults: a phase 1
+  dose-escalation trial.
+\newblock \emph{The Lancet}, 385\penalty0 (9967):\penalty0 517 -- 528, 2015.
+
+\bibitem[Porter1 et~al.(2015)Porter1, Hwang, Frey, Lacey, Shaw, Loren, Bagg,
+  Marcucci, Shen, Gonzalez, Ambrose, Grupp, Chew, Zheng, Milone, Levine,
+  Melenhorst, and June]{chronic}
+David~L. Porter1, Wei-Ting Hwang, Noelle~V. Frey, Simon~F. Lacey, Pamela~A.
+  Shaw, Alison~W. Loren, Adam Bagg, Katherine~T. Marcucci, Angela Shen, Vanessa
+  Gonzalez, David Ambrose, Stephan~A. Grupp, Anne Chew, Zhaohui Zheng,
+  Michael~C. Milone, Bruce~L. Levine, Jan~J. Melenhorst, and Carl~H. June.
+\newblock Chimeric antigen receptor t cells persist and induce sustained
+  remissions in relapsed refractory chronic lymphocytic leukemia.
+\newblock \emph{Science Translational Medicine}, 7\penalty0 (303):\penalty0
+  303ra139, 2015.
+
+\bibitem[Turtle et~al.(2016)Turtle, Hanafi, Berger, Hudecek, Pender, Robinson,
+  Hawkins, Chaney, Cherian, Chen, Soma, Wood, Li, Heimfeld, Riddell, and
+  Maloney]{lymphoma}
+Cameron~J. Turtle, Laïla-Aïcha Hanafi, Carolina Berger, Michael Hudecek,
+  Barbara Pender, Emily Robinson, Reed Hawkins, Colette Chaney, Sindhu Cherian,
+  Xueyan Chen, Lorinda Soma, Brent Wood, Daniel Li, Shelly Heimfeld, Stanley~R.
+  Riddell, and David~G. Maloney.
+\newblock Immunotherapy of non-hodgkin’s lymphoma with a defined ratio of
+  cd8+ and cd4+ cd19-specific chimeric antigen receptor–modified t cells.
+\newblock \emph{Science Translational Medicine}, 8\penalty0 (355):\penalty0
+  355ra116, 2016.
+
+\bibitem[Grupp et~al.(2013{\natexlab{a}})Grupp, Kalos, Barrett, Aplenc, Porter,
+  Rheingold, Teachey, Chew, Hauck, Wright, Milone, Levine, and June]{cyto-1}
+Stephan~A. Grupp, Michael Kalos, David Barrett, Richard Aplenc, David~L.
+  Porter, Susan~R. Rheingold, David~T. Teachey, Anne Chew, Bernd Hauck,
+  J.~Fraser Wright, Michael~C. Milone, Bruce~L. Levine, and Carl~H. June.
+\newblock Chimeric antigen receptor–modified t cells for acute lymphoid
+  leukemia.
+\newblock \emph{New England Journal of Medicine}, 368\penalty0 (16):\penalty0
+  1509 -- 1518, 2013{\natexlab{a}}.
+
+\bibitem[Xiao-JunXu and Yong-MinTang(2014)]{cyto-9}
+Xiao-JunXu and Yong-MinTang.
+\newblock Cytokine release syndrome in cancer immunotherapy with chimeric
+  antigen receptor engineered t cells.
+\newblock \emph{Cancer Letters}, 343\penalty0 (2):\penalty0 172 -- 178, 2014.
+
+\bibitem[Brentjens et~al.(2013{\natexlab{a}})Brentjens, Davila, Riviere†,
+  Park, Wang, Cowe, Bartido, Stefanski, Taylor, Olszewska, Borquez-Ojeda, Qu,
+  Wasielewska, He, Bernal, Rijo, Hedvat, Kobos, Curran, Steinherz, Jurcic,
+  Rosenblat, Maslak, Frattini, and Sadelain]{cyto-2}
+Renier Brentjens, Marco~L Davila, Isabelle Riviere†, Jae Park, Xiuyan Wang,
+  Lindsay~G Cowe, Shirley Bartido, Jolanta Stefanski, Clare Taylor, Malgorzata
+  Olszewska, Oriana Borquez-Ojeda, Jinrong Qu, Teresa Wasielewska, Qing He,
+  Yvette Bernal, Ivelise~V Rijo, Cyrus Hedvat, Rachel Kobos, Kevin Curran,
+  Peter Steinherz, Joseph Jurcic, Todd Rosenblat, Peter Maslak, Mark Frattini,
+  and Michel Sadelain.
+\newblock Cd19-targeted t cells rapidly induce molecular remissions in adults
+  with chemotherapy-refractory acute lymphoblastic leukemia.
+\newblock \emph{Science Translational Medicine}, 5\penalty0 (177):\penalty0
+  177ra38, 2013{\natexlab{a}}.
+
+\bibitem[Park et~al.(2018)Park, Rivière, Gonen, Wang, Sénéchal, Curran,
+  Sauter, Wang, Santomasso, Mead, Roshal, and Maslak]{cyto-3}
+Jae~H. Park, Isabelle Rivière, Mithat Gonen, Xiuyan Wang, Brigitte Sénéchal,
+  Kevin~J. Curran, Craig Sauter, Yongzeng Wang, Bianca Santomasso, Elena Mead,
+  Mikhail Roshal, and Peter Maslak.
+\newblock Long-term follow-up of cd19 car therapy in acute lymphoblastic
+  leukemia.
+\newblock \emph{New England Journal of Medicine}, 378\penalty0 (5):\penalty0
+  449 -- 459, 2018.
+
+\bibitem[Schuster et~al.(2017)Schuster, Svoboda, Chong, Nasta, Mato, Özlem
+  Anak, Brogdon, Pruteanu-Malinici, Bhoj, Landsburg, Wasik, Levine, Lacey,
+  Melenhorst, Porter, and June]{cyto-4}
+Stephen~J. Schuster, Jakub Svoboda, Elise~A. Chong, Sunita~D. Nasta, Anthony~R.
+  Mato, Özlem Anak, Jennifer~L. Brogdon, Iulian Pruteanu-Malinici, Vijay Bhoj,
+  Daniel Landsburg, Mariusz Wasik, Bruce~L. Levine, Simon~F. Lacey, Jan~J.
+  Melenhorst, David~L. Porter, and Carl~H. June.
+\newblock Chimeric antigen receptor t cells in refractory b-cell lymphomas.
+\newblock \emph{New England Journal of Medicine}, 377\penalty0 (26):\penalty0
+  2545 -- 2554, 2017.
+
+\bibitem[Lee et~al.(2015)Lee, Kochenderfer, Stetler-Stevenson, Cui,
+  Cindy~Delbrook, Fry, Orentas, Sabatino, Shah, Steinberg, Stroncek,
+  Nick~Tschernia, Zhang, Zhang, Rosenberg, Wayne, and Mackall]{cyto-5}
+Daniel~W Lee, James~N Kochenderfer, Maryalice Stetler-Stevenson, Yongzhi~K Cui,
+  RN~Steven A~Feldman Cindy~Delbrook, Terry~J Fry, Rimas Orentas, Marianna
+  Sabatino, Nirali~N Shah, Seth~M Steinberg, Dave Stroncek, BS~Constance~Yuan
+  Nick~Tschernia, Hua Zhang, Ling Zhang, Prof Steven~A Rosenberg, Prof Alan~S
+  Wayne, and Dr~Crystal~L Mackall.
+\newblock Tisagenlecleucel in children and young adults with b-cell
+  lymphoblastic leukemia.
+\newblock \emph{The Lancet}, 385\penalty0 (9967):\penalty0 517 -- 528, 2015.
+
+\bibitem[Ali et~al.(2016)Ali, Shi, Maric, Wang, Stroncek, Rose, Brudno,
+  Stetler-Stevenson, Feldman, Hansen, Fellowes, Hakim, Gress, and
+  Kochenderfer]{cyto-6}
+Syed~Abbas Ali, Victoria Shi, Irina Maric, Michael Wang, David~F. Stroncek,
+  Jeremy~J. Rose, Jennifer~N. Brudno, Maryalice Stetler-Stevenson, Steven~A.
+  Feldman, Brenna~G. Hansen, Vicki~S. Fellowes, Frances~T. Hakim, Ronald~E.
+  Gress, and James~N. Kochenderfer.
+\newblock T cells expressing an anti–b-cell maturation antigen chimeric
+  antigen receptor cause remissions of multiple myeloma.
+\newblock \emph{Blood}, 128\penalty0 (13):\penalty0 1688 -- 1700, 2016.
+
+\bibitem[Maude et~al.(2018)Maude, Laetsch, Buechner, Rives, Boyer, Bittencourt,
+  Bader, Verneris, Stefanski, Myers, Qayed, and et~al]{cyto-7}
+Shannon~L. Maude, Theodore~W. Laetsch, Jochen Buechner, Susana Rives, Michael
+  Boyer, Henrique Bittencourt, Peter Bader, Michael~R. Verneris, Heather~E.
+  Stefanski, Gary~D. Myers, Muna Qayed, and Barbara De~Moerloose et~al.
+\newblock Tisagenlecleucel in children and young adults with b-cell
+  lymphoblastic leukemia.
+\newblock \emph{New England Journal of Medicine}, 378\penalty0 (5):\penalty0
+  439 -- 448, 2018.
+
+\bibitem[Maude et~al.(2014{\natexlab{b}})Maude, Teachey, Porter, and
+  Grupp]{cyto-8}
+Shannon~L. Maude, David~T. Teachey, David~L. Porter, and Stephan~A. Grupp.
+\newblock Cd19-targeted chimeric antigen receptor t-cell therapy for acute
+  lymphoblastic leukemia.
+\newblock \emph{Blood}, 125\penalty0 (26):\penalty0 4017 -- 4023,
+  2014{\natexlab{b}}.
+
+\bibitem[Couper et~al.(2008)Couper, Blount, and Riley]{il10}
+Kevin~N. Couper, Daniel~G. Blount, and Eleanor~M. Riley.
+\newblock Il-10: The master regulator of immunity to infection.
+\newblock \emph{The Journal of Immunology}, 180\penalty0 (9):\penalty0 5771 --
+  5777, 2008.
+
+\bibitem[ichiro Fujii et~al.(2001)ichiro Fujii, Shimizu, Shimizu, and
+  Lotze]{il10-2}
+Shin ichiro Fujii, Kanako Shimizu, Takashi Shimizu, and Michael~T. Lotze.
+\newblock Interleukin-10 promotes the maintenance of antitumor cd8+ t-cell
+  effector function in situ.
+\newblock \emph{Blood}, 98:\penalty0 2143 -- 2151, 2001.
+
+\bibitem[Bonifant et~al.(2016)Bonifant, Jackson, Brentjens, and
+  Curran]{cyto-10}
+Challice~L Bonifant, Hollie~J Jackson, Renier~J Brentjens, and Kevin~J Curran.
+\newblock Toxicity and management in car t-cell therapy.
+\newblock \emph{Molecular Therapy Oncolytics}, 3\penalty0 (16011), 2016.
+
+\bibitem[Gust et~al.(2017)Gust, Hay, Hanafi, Li, Myerson, Gonzalez-Cuyar,
+  Yeung, Liles, Wurfel, Lopez, Chen, and et~al]{cyto-11}
+Juliane Gust, Kevin~A. Hay, Laïla-Aïcha Hanafi, Daniel Li, David Myerson,
+  Luis~F. Gonzalez-Cuyar, Cecilia Yeung, W.~Conrad Liles, Mark Wurfel, Jose~A.
+  Lopez, Junmei Chen, and Dominic~Chung et~al.
+\newblock Endothelial activation and blood–brain barrier disruption in
+  neurotoxicity after adoptive immunotherapy with cd19 car-t cells.
+\newblock \emph{Cancer Discovery}, 2017.
+
+\bibitem[Larochelle et~al.(2011)Larochelle, Alvarez, and Prat]{BBB-1}
+Catherine Larochelle, Jorge~Ivan Alvarez, and Alexandre Prat.
+\newblock How do immune cells overcome the blood–brain barrier in multiple
+  sclerosis?
+\newblock \emph{FEBS Letter}, 585\penalty0 (23):\penalty0 3770 -- 3780, 2011.
+
+\bibitem[Descamps et~al.(1997)Descamps, Cecchelli, and Torpier]{BBB-4}
+Laurence Descamps, Roméo Cecchelli, and Gérard Torpier.
+\newblock Effects of tumor necrosis factor on receptor-mediated endocytosis and
+  barrier function of bovine brain capillary endothelial cell monolayers.
+\newblock \emph{Journal of Neuroimmunology}, 74\penalty0 (1-2):\penalty0 173 --
+  184, 1997.
+
+\bibitem[G.Mayhan(2002)]{BBB-5}
+William G.Mayhan.
+\newblock Cellular mechanisms by which tumor necrosis factor-α produces
+  disruption of the blood–brain barrier.
+\newblock \emph{Brain Research}, 927\penalty0 (2):\penalty0 144 -- 152, 2002.
+
+\bibitem[Lv et~al.(2010)Lv, Song, Zhou, Li, Cui, Wang, and Liu]{BBB-2}
+Sa~Lv, Hong‐Li Song, Ying Zhou, Li‐Xin Li, Wei Cui, Wen Wang, and Pei Liu.
+\newblock Tumour necrosis factor-alpha affects blood–brain barrier
+  permeability and tight junction-associated occludin in acute liver failure.
+\newblock \emph{Liver International}, 30\penalty0 (8):\penalty0 1198 -- 1210,
+  2010.
+
+\bibitem[Alvareza et~al.(2011)Alvareza, Cayrola, and Prat]{BBB-3}
+Jorge~Ivan Alvareza, Romain Cayrola, and Alexandre Prat.
+\newblock Disruption of central nervous system barriers in multiple sclerosis.
+\newblock \emph{Biochimica et Biophysica Acta (BBA) - Molecular Basis of
+  Disease}, 1812\penalty0 (2):\penalty0 252 -- 264, 2011.
+
+\bibitem[Dai et~al.(2015)Dai, Zhang, Li, Han, Guo, Zhang, Wang, Wang, Shi,
+  Zhang, Chen, Feng, Wang, Zhu, Fu, Li, and Han]{allo-3}
+Hanren Dai, Wenying Zhang, Xiaolei Li, Qingwang Han, Yelei Guo, Yajing Zhang,
+  Yao Wang, Chunmeng Wang, Fengxia Shi, Yan Zhang, Meixia Chen, Kaichao Feng,
+  Quanshun Wang, Hongli Zhu, Xiaobing Fu, Suxia Li, and Weidong Han.
+\newblock Tolerance and efficacy of autologous or donor-derived t cells
+  expressing cd19 chimeric antigen receptors in adult b-all with extramedullary
+  leukemia.
+\newblock \emph{Oncoimmunology}, 4\penalty0 (11), 2015.
+
+\bibitem[Maus et~al.(2013)Maus, Haas, Beatty, Albelda, Levine, Liu, Zhao,
+  Kalos, and June]{allo-4}
+Marcela~V. Maus, Andrew~R. Haas, Gregory~L. Beatty, Steven~M. Albelda, Bruce~L.
+  Levine, Xiaojun Liu, Yangbing Zhao, Michael Kalos, and Carl~H. June.
+\newblock T cells expressing chimeric antigen receptors can cause anaphylaxis
+  in humans.
+\newblock \emph{Cancer Immunology Research}, 1\penalty0 (1), 2013.
+
+\bibitem[Ghosh et~al.(2017)Ghosh, Smith1, James, Davila2, Velardi,
+  Argyropoulos, Gunset, Perna, Kreines, Levy, Lieberman, and et~al]{allo-5}
+Arnab Ghosh, Melody Smith1, Scott~E. James, Marco~L. Davila2, Enrico Velardi,
+  Kimon~V. Argyropoulos, Gertrude Gunset, Fabiana Perna, Fabiana~M. Kreines,
+  Emily~R. Levy, Sophie Lieberman, and Hilary~Jay et~al.
+\newblock Donor cd19-car t cells exert potent graft-versus-lymphoma activity
+  with diminished graft-versus-host activity.
+\newblock \emph{Nature Medicine}, 23\penalty0 (2):\penalty0 242 -- 249, 2017.
+
+\bibitem[Zhao et~al.(2015)Zhao, Condomines, van~der Stegen, Perna, Kloss,
+  Gunset, Plotkin, and Sadelain]{CD28-4}
+Zeguo Zhao, Maud Condomines, Sjoukje~J.C. van~der Stegen, Fabiana Perna,
+  Christopher~C. Kloss, Gertrude Gunset, Jason Plotkin, and Michel Sadelain.
+\newblock Structural design of engineered costimulation determines tumor
+  rejection kinetics and persistence of car t cells.
+\newblock \emph{Cancer Cell}, 28\penalty0 (4):\penalty0 415 -- 428, 2015.
+
+\bibitem[Grupp et~al.(2013{\natexlab{b}})Grupp, Kalos, Barrett, Aplenc, Porter,
+  Rheingold, Teachey, Chew, Hauck, Wright, Milone, Levine, and June]{aplasia}
+Stephan~A. Grupp, Michael Kalos, David Barrett, Richard Aplenc, David~L.
+  Porter, Susan~R. Rheingold, David~T. Teachey, Anne Chew, Bernd Hauck,
+  J.~Fraser Wright, Michael~C. Milone, Bruce~L. Levine, and Carl~H. June.
+\newblock Chimeric antigen receptor–modified t cells for acute lymphoid
+  leukemia.
+\newblock \emph{The New England Journal of Medicine}, 368\penalty0
+  (16):\penalty0 1509 -- 1518, 2013{\natexlab{b}}.
+
+\bibitem[Kochenderfer et~al.(2012)Kochenderfer, Dudley, Feldman, Wilson,
+  Spaner, Maric, Stetler-Stevenson, Phan, Hughes, Sherry, Yang, and
+  et.al]{aplasia-3}
+James~N. Kochenderfer, Mark~E. Dudley, Steven~A. Feldman, Wyndham~H. Wilson,
+  David~E. Spaner, Irina Maric, Maryalice Stetler-Stevenson, Giao~Q. Phan,
+  Marybeth~S. Hughes, Richard~M. Sherry, James~C. Yang, and Udai S.~Kammula
+  et.al.
+\newblock B-cell depletion and remissions of malignancy along with
+  cytokine-associated toxicity in a clinical trial of anti-cd19
+  chimeric-antigen-receptor–transduced t cells.
+\newblock \emph{Blood}, 119\penalty0 (12), 2012.
+
+\bibitem[Brentjens et~al.(2013{\natexlab{b}})Brentjens, Davila, Riviere, Park,
+  Wang, Cowell, Bartido, Stefanski, Taylor, Olszewska, Borquez-Ojeda, and
+  et.al]{aplasia-2}
+Renier Brentjens, Marco~L Davila, Isabelle Riviere, Jae Park, Xiuyan Wang,
+  Lindsay~G Cowell, Shirley Bartido, Jolanta Stefanski, Clare Taylor,
+  Malgorzata Olszewska, Oriana Borquez-Ojeda, and Jinrong~Qu et.al.
+\newblock Cd19-targeted t cells rapidly induce molecular remissions in adults
+  with chemotherapy-refractory acute lymphoblastic leukemia.
+\newblock \emph{Science Translational Medicine}, 5\penalty0 (177),
+  2013{\natexlab{b}}.
+
+\bibitem[Maus et~al.(2012)Maus, Grupp, Porter, and June]{aplasia-4}
+Marcela~V. Maus, Stephan~A. Grupp, David~L. Porter, and Carl~H. June.
+\newblock Antibody-modified t cells: Cars take the front seat for hematologic
+  malignancies.
+\newblock \emph{Blood}, 123\penalty0 (17):\penalty0 2625 -- 2635, 2012.
+
+\bibitem[Tasian and Gardner(2015)]{aplasia-5}
+Sarah~K. Tasian and Rebecca~A. Gardner.
+\newblock Cd19-redirected chimeric antigen receptor-modified t cells: a
+  promising immunotherapy for children and adults with b-cell acute
+  lymphoblastic leukemia (all).
+\newblock \emph{Therapeutic Advances in Hematology}, 6\penalty0 (5):\penalty0
+  228 -- 241, 2015.
 
 \bibitem[Knochelmann et~al.(2018)Knochelmann, Smith, Dwyer, Wyatt, Mehrotra,
-  and Paulos]{CAR}
+  and Paulos]{blueprints}
 Hannah~M. Knochelmann, Aubrey~S. Smith, Connor~J. Dwyer, Megan~M. Wyatt,
   Shikhar Mehrotra, and Chrystal~M. Paulos.
 \newblock Car t cells in solid tumors: Blueprints for building effective
   therapies.
-\newblock \emph{Frontiers in Immunology}, 9:\penalty0 1740, 2018.
+\newblock \emph{Frontiers in Immunology}, 9\penalty0 (1740), 2018.
+
+\bibitem[D’Aloia et~al.(2018)D’Aloia, Zizzari, Sacchetti, Pierelli, and
+  Alimandi]{traffick-2}
+Maria~Michela D’Aloia, Ilaria~Grazia Zizzari, Benedetto Sacchetti, Luca
+  Pierelli, and Maurizio Alimandi.
+\newblock Car-t cells: the long and winding road to solid tumors.
+\newblock \emph{Cell Death and Disease}, 9\penalty0 (3):\penalty0 282, 2018.
+
+\bibitem[Newick et~al.(2016)Newick, Moon, and Albelda]{traffick-1}
+Kheng Newick, Edmund Moon, and Steven~M Albelda.
+\newblock Chimeric antigen receptor t-cell therapy for solid tumors.
+\newblock \emph{Molecular Therapy - Oncolytics}, 3:\penalty0 16006, 2016.
+
+\bibitem[Samaha et~al.(2018)Samaha, Pignata, Fousek, ren, lam, Stossi,
+  Dubrulle, Salsman, Krishnan, Hong, l.~Baker, and et.al]{homing}
+Heba Samaha, Antonella Pignata, Kristen Fousek, Jun ren, Fong~W. lam, Fabio
+  Stossi, Julien Dubrulle, Vita~S. Salsman, Shanmugarajan Krishnan, Sung-Ha
+  Hong, Matthew l.~Baker, and Ankita~Shree et.al.
+\newblock A homing system targets therapeutic t cells to brain cancer.
+\newblock \emph{Nature}, 561:\penalty0 331 -- 337, 2018.
+
+\bibitem[Washington et~al.(1994)Washington, Burton, III, Newman, Dragovic, and
+  Dore‐Duffy]{MS}
+Ruth Washington, Jeffrey Burton, Robert F.~Todd III, Walter Newman, Ljubisa
+  Dragovic, and Dr.~Paula Dore‐Duffy.
+\newblock Expression of immunologically relevant endothelial cell activation
+  antigens on isolated central neurvous system microvessels from patients with
+  multiple sclerosis.
+\newblock \emph{Annals of Neurology}, 31:\penalty0 89 -- 97, 1994.
+
+\bibitem[Craddock et~al.(2010)Craddock, Lu, Bear, Pule, Brenner, Rooney, and
+  Foster]{CCR2-2}
+John~A Craddock, An~Lu, Adham Bear, Martin Pule, Malcolm~K Brenner, Cliona~M
+  Rooney, and Aaron~E Foster.
+\newblock Enhanced tumor trafficking of gd2 chimeric antigen receptor t cells
+  by expression of the chemokine receptor ccr2b.
+\newblock \emph{Journal of Immunotherapy}, 33\penalty0 (8):\penalty0 780 --
+  788, 2010.
+
+\bibitem[A et~al.(2009)A, B, CM, L, A, AE, HE, MK, G, and B]{CCR}
+Di~Stasi A, De~Angelis B, Rooney CM, Zhang L, Mahendravada A, Foster AE, Heslop
+  HE, Brenner MK, Dotti G, and Savoldo B.
+\newblock T lymphocytes coexpressing ccr4 and a chimeric antigen receptor
+  targeting cd30 have improved homing and antitumor activity in a hodgkin tumor
+  model.
+\newblock \emph{Blood}, 113\penalty0 (25):\penalty0 6392 -- 6402, 2009.
+
+\bibitem[W et~al.(2010)W, Y, BA, C, Y, M, M, Y, WW, G, and P]{CCR-2}
+Peng W, Ye~Y, Rabinovich BA, Liu C, Lou Y, Zhang M, Whittington M, Yang Y,
+  Overwijk WW, Lizée G, and Hwu P.
+\newblock Transduction of tumor-specific t cells with cxcr2 chemokine receptor
+  improves migration to tumor and antitumor immune responses.
+\newblock \emph{Clinical Cancer Research}, 16\penalty0 (22):\penalty0 5458 --
+  5468, 2010.
+
+\bibitem[Moon et~al.(2011)Moon, Carpenito, Sun, Wang, Kapoor, Predina, Daniel
+  J.~Powell, Riley, June, and Albelda]{CCR2}
+Edmund~K. Moon, Carmine Carpenito, Jing Sun, Liang-Chuan~S Wang, Veena Kapoor,
+  Jarrod Predina, Jr. Daniel J.~Powell, James~L. Riley, Carl~H. June, and
+  Steven~M. Albelda.
+\newblock Expression of a functional ccr2 receptor enhances tumor localization
+  and tumor eradication by retargeted human t cells expressing a mesothelin -
+  specific chimeric antibody receptor.
+\newblock \emph{Clinical Cancer Research}, 17\penalty0 (14):\penalty0 4719 --
+  4730, 2011.
+
+\bibitem[Caruana et~al.(2015)Caruana, Savoldo, Hoyos, Weber, Liu, Kim, Ittmann,
+  Marchetti, and Dotti]{heparanase}
+Ignazio Caruana, Barbara Savoldo, Valentina Hoyos, Gerrit Weber, Hao Liu,
+  Eugene~S. Kim, Michael~M. Ittmann, Dario Marchetti, and Gianpietro Dotti.
+\newblock Heparanase promotes tumor infiltration and antitumor activity of
+  car-redirected t lymphocytes.
+\newblock \emph{Nature Medicine}, 21\penalty0 (5):\penalty0 524 -- 529, 2015.
+
+\bibitem[Jezierska and Motyl(2009)]{MMP2}
+Agnieszka Jezierska and Tomasz Motyl.
+\newblock Matrix metalloproteinase-2 involvement in breast cancer progression:
+  a mini-review.
+\newblock \emph{Medical Science Monitor}, 15\penalty0 (2):\penalty0 32 -- 40,
+  2009.
+
+\bibitem[Dong et~al.(2011)Dong, Li, Zhang, Yang, Guo, Li, and Liu]{MMP2-2}
+Wei Dong, Hong Li, Yan Zhang, Heng Yang, Min Guo, Li~Li, and Tongjun Liu.
+\newblock Matrix metalloproteinase 2 promotes cell growth and invasion in
+  colorectal cancer.
+\newblock \emph{Acta Biochimica et Biophysica Sinica}, 43\penalty0
+  (11):\penalty0 840 -- 848, 2011.
+
+\bibitem[Mehner et~al.(2014)Mehner, Hockla, Miller, Ran, Radisky, and
+  Radisky]{MMP9}
+Christine Mehner, Alexandra Hockla, Erin Miller, Sophia Ran, Derek~C. Radisky,
+  and Evette~S. Radisky.
+\newblock Tumor cell-produced matrix metalloproteinase 9 (mmp-9) drives
+  malignant progression and metastasis of basal-like triple negative breast
+  cancer.
+\newblock \emph{Oncotarget}, 5\penalty0 (9):\penalty0 2736 -- 2749, 2014.
+
+\bibitem[Gialeli et~al.(2011)Gialeli, Theocharis, and Karamanos]{MMPs}
+Chrisostomi Gialeli, Achilleas~D. Theocharis, and Nikos~K. Karamanos.
+\newblock Roles of matrix metalloproteinases in cancer progression and their
+  pharmacological targeting.
+\newblock \emph{FEBS Journal}, 287\penalty0 (1):\penalty0 16 -- 27, 2011.
+
+\bibitem[Korpi et~al.(2008)Korpi, Kervinen, Mäklin, Väänänen, Lahtinen,
+  Läärä, Ristimäki, Thomas, Ylipalosaari, Åström, Lopez-Otin, Sorsa,
+  Kantola, Pirilä, and Salo]{MMP8}
+J~T Korpi, V~Kervinen, H~Mäklin, A~Väänänen, M~Lahtinen, E~Läärä,
+  A~Ristimäki, G~Thomas, M~Ylipalosaari, P~Åström, C~Lopez-Otin, T~Sorsa,
+  S~Kantola, E~Pirilä, and T~Salo.
+\newblock Collagenase-2 (matrix metalloproteinase-8) plays a protective role in
+  tongue cancer.
+\newblock \emph{British Journal of Cancer}, 98\penalty0 (4):\penalty0 1766 --
+  775, 2008.
+
+\bibitem[Decock et~al.(2008)Decock, Hendrickx, Vanleeuw, Belle, Huffel,
+  Christiaens, Ye, and Paridaens]{MMP8-2}
+Julie Decock, Wouter Hendrickx, Ulla Vanleeuw, Vanya~Van Belle, Sabine~Van
+  Huffel, Marie-Rose Christiaens, Shu Ye, and Robert Paridaens.
+\newblock Plasma mmp1 and mmp8 expression in breast cancer: Protective role of
+  mmp8 against lymph node metastasis.
+\newblock \emph{BioMed Central Cancer}, 8\penalty0 (77), 2008.
+
+\bibitem[Decock et~al.(2015)Decock, Hendrickx, Thirkettle,
+  Gutiérrez-Fernández, Robinson, and Edwards]{MMP8-3}
+Julie Decock, Wouter Hendrickx, Sally Thirkettle, Ana Gutiérrez-Fernández,
+  Stephen~D Robinson, and Dylan~R Edwards.
+\newblock Pleiotropic functions of the tumor- and metastasis-suppressing matrix
+  metalloproteinase-8 in mammary cancer in mmtv-pymt transgenic mice.
+\newblock \emph{Breast Cancer Research}, 17\penalty0 (1):\penalty0 38, 2015.
+
+\bibitem[Gutiérrez-Fernández et~al.(2008)Gutiérrez-Fernández, Fueyo,
+  Folgueras, Garabaya, Pennington, Pilgrim, Edwards, Holliday, Jones, Span,
+  Sweep, Puente, and López-Otín]{MMP8-4}
+Ana Gutiérrez-Fernández, Antonio Fueyo, Alicia~R. Folgueras, Cecilia
+  Garabaya, Caroline~J. Pennington, Simon Pilgrim, Dylan~R. Edwards, Deborah~L.
+  Holliday, J.~Louise Jones, Paul~N. Span, Fred~C.G.J. Sweep, Xose~S. Puente,
+  and Carlos López-Otín.
+\newblock Matrix metalloproteinase-8 functions as a metastasis suppressor
+  through modulation of tumor cell adhesion and invasion.
+\newblock \emph{Cancer Research}, 68\penalty0 (8), 2008.
+
+\bibitem[Stadlmanna et~al.(2003)Stadlmanna, Pollheimerb, Mosera, Raggic,
+  Ambergerd, Margreiterd, Offnere, Mikuza, Dirnhoferc, and Moch]{MMP8-5}
+S.~Stadlmanna, J.~Pollheimerb, P.L. Mosera, A.~Raggic, A.~Ambergerd,
+  R.~Margreiterd, F.A. Offnere, G.~Mikuza, S.~Dirnhoferc, and H.~Moch.
+\newblock Cytokine-regulated expression of collagenase-2 (mmp-8) is involved in
+  the progression of ovarian cancer.
+\newblock \emph{European Journal of Cancer}, 39\penalty0 (17):\penalty0 2499 --
+  2505, 2003.
+
+\bibitem[Qin et~al.(2016)Qin, Luo, Chen, Dang, Chen, Li, Zeng, Lu, and
+  Yang]{MMP8-6}
+Guihui Qin, Min Luo, Junze Chen, Yiwu Dang, Gang Chen, Li~Li, Jing Zeng, Yi~Lu,
+  and Jie Yang.
+\newblock Reciprocal activation between mmp-8 and tgf-β1 stimulates emt and
+  malignant progression of hepatocellular carcinoma.
+\newblock \emph{Cancer Letters}, 374\penalty0 (1):\penalty0 85 -- 95, 2016.
+
+\bibitem[Soria-Valles et~al.(2014)Soria-Valles, Gutiérrez-Fernández, Guiu,
+  Mari, Fueyo, Gomis, and López-Otín]{MMP8-8}
+C~Soria-Valles, A~Gutiérrez-Fernández, M~Guiu, B~Mari, A~Fueyo, R~R Gomis,
+  and C~López-Otín.
+\newblock The anti-metastatic activity of collagenase-2 in breast cancer cells
+  is mediated by a signaling pathway involving decorin and mir-21.
+\newblock \emph{Oncogene}, 33:\penalty0 3054 -- 3063, 2014.
+
+\bibitem[C et~al.(2004)C, AA, U, H, and JA]{MMP8-7}
+Kuropkat C, Duenne AA, Herz U, Renz H, and Werner JA.
+\newblock Significant correlation of matrix metalloproteinase and macrophage
+  colony-stimulating factor serum concentrations in patients with head and neck
+  cancer.
+\newblock \emph{Neoplasma}, 51\penalty0 (5):\penalty0 375 -- 378, 2004.
+
+\bibitem[Hoeben et~al.(2004)Hoeben, Landuyt, Highley, Wildiers, Oosterom, and
+  Bruijn]{VEGF}
+Ann Hoeben, Bart Landuyt, Martin~S. Highley, Hans Wildiers, Allan T.~Van
+  Oosterom, and Ernst A.~De Bruijn.
+\newblock Vascular endothelial growth factor and angiogenesis.
+\newblock \emph{Pharmacological Reviews}, 56\penalty0 (4):\penalty0 549 -- 580,
+  2004.
+
+\bibitem[Brown and Wilson(2004)]{hypoxia}
+J.~Martin Brown and William~R. Wilson.
+\newblock Exploiting tumour hypoxia in cancer treatment.
+\newblock \emph{Nature Review}, 4:\penalty0 437 -- 447, 2004.
+
+\bibitem[Barsoum et~al.(2014)Barsoum, Smallwood, Siemens, and
+  Graham]{hypoxia-9}
+Ivraym~B. Barsoum, Chelsea~A. Smallwood, D.~Robert Siemens, and Charles~H.
+  Graham.
+\newblock A mechanism of hypoxia-mediated escape from adaptive immunity in
+  cancer cells.
+\newblock \emph{Cancer Research}, 74\penalty0 (3), 2014.
+
+\bibitem[Patsoukis et~al.(2015)Patsoukis, Bardhan, Chatterjee, Sari, Liu, Bell,
+  Karoly, Freeman, Petkova, Seth, Li, and Boussiotis]{PD-1}
+Nikolaos Patsoukis, Kankana Bardhan, Pranam Chatterjee, Duygu Sari, Bianling
+  Liu, Lauren~N. Bell, Edward~D. Karoly, Gordon~J. Freeman, Victoria Petkova,
+  Pankaj Seth, Lequn Li, and Vassiliki~A. Boussiotis.
+\newblock Pd-1 alters t-cell metabolic reprogramming by inhibiting glycolysis
+  and promoting lipolysis and fatty acid oxidation.
+\newblock \emph{Nature Communications}, 6\penalty0 (6692), 2015.
+
+\bibitem[John et~al.(2013)John, h~Kershaw, and Darcy]{block}
+Liza~B John, Michael h~Kershaw, and Phillip~K Darcy.
+\newblock Blockade of pd-1 immunosuppression boosts car t-cell therapy.
+\newblock \emph{Onco Immunology}, 2\penalty0 (10), 2013.
+
+\bibitem[Chen et~al.(2018)Chen, Lin, Zhong, An, Lu, Yin, Liang, and
+  McGowan]{knockout}
+S~Chen, Y~Lin, S~Zhong, H~An, Y~Lu, M~Yin, W~Liang, and E~M McGowan.
+\newblock Anti-muc1 car-t cells combined with pd-1 knockout engineered t cells
+  for patients with non-small cell lung cancer (nsclc): A pilot study.
+\newblock \emph{Annals of Oncology}, 29\penalty0 (10), 2018.
+
+\bibitem[Denko(2008)]{hypoxia-3}
+Nicholas~C. Denko.
+\newblock Hypoxia, hif1 and glucose metabolism in the solid tumour.
+\newblock \emph{Nature Reviews Cancer}, 8:\penalty0 705 -- 713, 2008.
+
+\bibitem[RE and A.(2007)]{hypoxia-4}
+Airley RE and Mobasheri A.
+\newblock Hypoxic regulation of glucose transport, anaerobic metabolism and
+  angiogenesis in cancer: novel pathways and targets for anticancer
+  therapeutics.
+\newblock \emph{Chemotherapy}, 53\penalty0 (4):\penalty0 233 -- 256, 2007.
+
+\bibitem[Jacobs et~al.(2008)Jacobs, Herman, MacIver, Wofford, Wieman, Hammen,
+  and Rathmell]{hypoxia-5}
+Sarah~R. Jacobs, Catherine~E. Herman, Nancie~J. MacIver, Jessica~A. Wofford,
+  Heather~L. Wieman, Jeremy~J. Hammen, and Jeffrey~C. Rathmell.
+\newblock Glucose uptake is limiting in t cell activation and requires
+  cd28-mediated akt-dependent and independent pathways.
+\newblock \emph{The Journal of Immunology}, 180\penalty0 (7):\penalty0 4476 --
+  4486, 2008.
+
+\bibitem[Noman et~al.(2009)Noman, Buart, Pelt, Richon, Hasmim, Leleu,
+  Suchorska, Jalil, Lecluse, Hage, Giuliani, Pichon, Azzarone, Mazure, Romero,
+  Mami-Chouaib, and Chouaib]{hypoxia-6}
+Muhammad~Zaeem Noman, Stéphanie Buart, Jos~Van Pelt, Catherine Richon, Meriem
+  Hasmim, Nathalie Leleu, Wictoria~Maria Suchorska, Abdelali Jalil, Yann
+  Lecluse, Faten~El Hage, Massimo Giuliani, Christophe Pichon, Bruno Azzarone,
+  Nathalie Mazure, Pedro Romero, Fathia Mami-Chouaib, and Salem Chouaib.
+\newblock The cooperative induction of hypoxia-inducible factor-1α and stat3
+  during hypoxia induced an impairment of tumor susceptibility to ctl-mediated
+  cell lysis.
+\newblock \emph{The Journal of Immunology}, 182\penalty0 (6):\penalty0 3510 --
+  3521, 2009.
+
+\bibitem[Doedens et~al.(2013)Doedens, Phan, Stradner, Fujimoto, Nguyen, Yang,
+  Johnson, and Goldrath]{hypoxia-7}
+Andrew~L Doedens, Anthony~T Phan, Martin~H Stradner, Jessica~K Fujimoto,
+  Jessica~V Nguyen, Edward Yang, Randall~S Johnson, and Ananda~W Goldrath.
+\newblock Hypoxia-inducible factors enhance the effector responses of cd8+ t
+  cells to persistent antigen.
+\newblock \emph{Nature Immunology}, 14:\penalty0 1173 -- 1182, 2013.
+
+\bibitem[Juillerat et~al.(2017)Juillerat, Marechal, Filhol, Valogne, Valton,
+  Duclert, Duchateau, and Poirot]{hypoxia-8}
+Alexandre Juillerat, Alan Marechal, Jean~Marie Filhol, Yannick Valogne, Julien
+  Valton, Aymeric Duclert, Philippe Duchateau, and Laurent Poirot.
+\newblock An oxygen sensitive self-decision making engineered car t-cell.
+\newblock \emph{Scientific Reports}, 7:\penalty0 39833, 2017.
+
+\bibitem[Schmidt et~al.(2012)Schmidt, Oberle, and Krammer]{Treg}
+Angelika Schmidt, Nina Oberle, and Peter~H. Krammer.
+\newblock Molecular mechanisms of treg-mediated t cell suppression.
+\newblock \emph{Frontiers in Immunology}, 3\penalty0 (51), 2012.
+
+\bibitem[Kang et~al.(2010)Kang, Xie, Ma, Liao, Zhang, and Luo]{Treg-2}
+Shijun Kang, Jianmin Xie, Shudong Ma, Wangjun Liao, Junyi Zhang, and Rongcheng
+  Luo.
+\newblock Targeted knock down of ccl22 and ccl17 by sirna during dc
+  differentiation and maturation affects the recruitment of t subsets.
+\newblock \emph{Immunobiology}, 215\penalty0 (2):\penalty0 153 -- 162, 2010.
+
+\bibitem[Curiel et~al.(2004)Curiel, Coukos, Zou, Alvarez, Cheng, Mottram,
+  Evdemon-Hogan, Conejo-Garcia, Zhang, Burow, Zhu, and et. al]{Treg-3}
+Tyler~J Curiel, George Coukos, Linhua Zou, Xavier Alvarez, Pui Cheng, Peter
+  Mottram, Melina Evdemon-Hogan, Jose~R Conejo-Garcia, Lin Zhang, Matthew
+  Burow, Yun Zhu, and Shuang~Wei et. al.
+\newblock Specific recruitment of regulatory t cells in ovarian carcinoma
+  fosters immune privilege and predicts reduced survival.
+\newblock \emph{Nature Medicine}, 10:\penalty0 942 -- 949, 2004.
+
+\bibitem[Facciabene et~al.(2011)Facciabene, Peng, Hagemann, Balint, Barchetti,
+  Wang, Gimotty, Gilks, Lal, Zhang, and Coukos]{Treg-4}
+Andrea Facciabene, Xiaohui Peng, Ian~S. Hagemann, Klara Balint, Andrea
+  Barchetti, Li-Ping Wang, Phyllis~A. Gimotty, C.~Blake Gilks, Priti Lal, Lin
+  Zhang, and George Coukos.
+\newblock Tumour hypoxia promotes tolerance and angiogenesis via ccl28 and treg
+  cells.
+\newblock \emph{Nature}, 475:\penalty0 226 -- 230, 2011.
+
+\bibitem[Tan et~al.(2009)Tan, Goedegebuure, Belt, Flaherty, Sankpal,
+  Gillanders, Eberlein, Hsieh, and Linehan]{Treg-5}
+Marcus C.~B. Tan, Peter~S. Goedegebuure, Brian~A. Belt, Brian Flaherty,
+  Narendra Sankpal, William~E. Gillanders, Timothy~J. Eberlein, Chyi-Song
+  Hsieh, and David~C. Linehan.
+\newblock Disruption of ccr5-dependent homing of regulatory t cells inhibits
+  tumor growth in a murine model of pancreatic cancer.
+\newblock \emph{The Journal of Immunology}, 182\penalty0 (3):\penalty0 1746 --
+  1755, 2009.
+
+\bibitem[Lv et~al.(2014)Lv, Xu, Tang, Ren, Shen, Chen, Liu, Hou, and
+  Wang]{Treg-6}
+Mingming Lv, Yujun Xu, Ruijing Tang, Jing Ren, Sunan Shen, Yueqiu Chen, Baorui
+  Liu, Yayi Hou, and Tingting Wang.
+\newblock mir141–cxcl1–cxcr2 signaling–induced treg recruitment regulates
+  metastases and survival of non–small cell lung cancer.
+\newblock \emph{Molecular Cancer Therapeutics}, 13\penalty0 (12), 2014.
+
+\bibitem[Whiteside et~al.(2011)Whiteside, Mandapathil, and Schuler]{Treg-7}
+Theresa~L Whiteside, Magis Mandapathil, and P.~Schuler.
+\newblock The role of the adenosinergic pathway in immunosuppression mediated
+  by human regulatory t cells (treg).
+\newblock \emph{Current Medicinal Chemistry}, 18, 2011.
+
+\bibitem[Mandapathil and Whiteside(2011)]{Treg-8}
+Magis Mandapathil and Theresa~L Whiteside.
+\newblock Targeting human inducible regulatory t cells (tr1) in patients with
+  cancer: blocking of adenosine–prostaglandin e2 cooperation.
+\newblock \emph{Expert Opinion on Biological Therapy}, 11\penalty0 (9), 2011.
+
+\bibitem[Insel et~al.(2012)Insel, Zhang, Murray, Yokouchi, and Zambon]{cAMP}
+Paul~A. Insel, Lingzhi Zhang, Fiona Murray, Hiroshi Yokouchi, and Alexander~C.
+  Zambon.
+\newblock Cyclic amp is both a pro-apoptotic and anti-apoptotic second
+  messenger.
+\newblock \emph{Acta Physiologica}, 204\penalty0 (2), 2012.
+
+\bibitem[Y.~Su(2011)]{cAMP-2}
+E.~Gorelik Y.~Su, E.K.~Jackson.
+\newblock Receptor desensitization and blockade of the suppressive effects of
+  prostaglandin e(2) and adenosine on the cytotoxic activity of human
+  melanoma-infiltrating t lymphocytes.
+\newblock \emph{Cancer Immunology}, 60, 2011.
+
+\bibitem[Hoskin et~al.(2008)Hoskin, Mader, Furlong, and D.M.~Conrad]{cAMP-3}
+D.W. Hoskin, J.S. Mader, S.J. Furlong, and J.~Blay D.M.~Conrad.
+\newblock Inhibition of t cell and natural killer cell function by adenosine
+  and its contribution to immune evasion by tumor cells (review).
+\newblock \emph{International Journal of Oncology}, 32, 2008.
+
+\bibitem[Brudvik and Tasken(2012)]{cAMP-4}
+K.W. Brudvik and K.~Tasken.
+\newblock Modulation of t cell immune functions by the prostaglandin e(2) –
+  camp pathway in chronic inflammatory states.
+\newblock \emph{British Journal of Pharmacology}, 166, 2012.
+
+\bibitem[Hussaina et~al.(2013)Hussaina, Javeeda, Ashraf, Yuzhu, and
+  Mukhtar]{cAMP-5}
+Muzammal Hussaina, Aqeel Javeeda, Muhammad Ashraf, Hou Yuzhu, and
+  Muhammad~Mahmood Mukhtar.
+\newblock Multilevel pharmacological manipulation of adenosine–prostaglandin
+  e2/camp nexus in the tumor microenvironment: A ‘two hit’ therapeutic
+  opportunity.
+\newblock \emph{Pharmacological Research}, 73, 2013.
+
+\bibitem[K et~al.(2016)K, S, J, V, S, A, E, E, and SM]{cAMP-6}
+Newick K, O'Brien S, Sun J, Kapoor V, Maceyko S, Lo~A, Puré E, Moon E, and
+  Albelda SM.
+\newblock Augmentation of car t-cell trafficking and antitumor efficacy by
+  blocking protein kinase a localization.
+\newblock \emph{Cancer Immunology Research}, 4\penalty0 (6), 2016.
+
+\bibitem[N and Aandahl(2016)]{ezrin}
+Kjetil~Taske´ N and Einar~Martin Aandahl.
+\newblock Localized effects of camp mediated by distinct routes of protein
+  kinase a.
+\newblock \emph{Physiological Reviews}, 84\penalty0 (1), 2016.
+
+\bibitem[Jarnæss and Taskén(2007)]{ezrin-2}
+E.~Jarnæss and K.~Taskén.
+\newblock Spatiotemporal control of camp signalling processes by anchored
+  signalling complexes.
+\newblock \emph{Biochemical Society Transactions}, 35\penalty0 (5), 2007.
+
+\bibitem[Sassone-Corsi(2012)]{PKA}
+Paolo Sassone-Corsi.
+\newblock The cyclic amp pathway.
+\newblock \emph{Cold Spring Harbor Perspectives in Biology}, 4\penalty0 (12),
+  2012.
+
+\bibitem[McGranahan and Swanton(2017)]{heterogeneity}
+Nicholas McGranahan and Charles Swanton.
+\newblock Clonal heterogeneity and tumor evolution: Past, present, and the
+  future.
+\newblock \emph{Cell}, 168\penalty0 (4), 2017.
+
+\bibitem[Ashford et~al.(2019)Ashford, Pang, Moya-García, Adeyelu, and
+  Orengo]{CATH}
+Paul Ashford, Camilla S.~M. Pang, Aurelio~A. Moya-García, Tolulope Adeyelu,
+  and Christine~A. Orengo.
+\newblock A cath domain functional family based approach to identify putative
+  cancer driver genes and driver mutations.
+\newblock \emph{Scientific Reports}, 9\penalty0 (263), 2019.
+
+\bibitem[chao Feng et~al.(2017)chao Feng, lei Guo, Liu, ren Dai, Wang, yan Lv,
+  hua Huang, ming Yang, and dong Han]{CRS-2}
+Kai chao Feng, Ye~lei Guo, Yang Liu, Han ren Dai, Yao Wang, Hai yan Lv, Jian
+  hua Huang, Qing ming Yang, and Wei dong Han.
+\newblock Cocktail treatment with egfr-specific and cd133-specific chimeric
+  antigen receptor-modified t cells in a patient with advanced
+  cholangiocarcinoma.
+\newblock \emph{Journal of Hematology \& Oncology}, 10\penalty0 (4), 2017.
+
+\bibitem[Ahmed et~al.(2015)Ahmed, Brawley, Hegde, Robertson, Ghazi, Gerken,
+  Liu, Dakhova, Ashoori, Corder, Gray, and Wu]{CRS-3}
+Nabil Ahmed, Vita~S. Brawley, Meenakshi Hegde, Catherine Robertson, Alexia
+  Ghazi, Claudia Gerken, Enli Liu, Olga Dakhova, Aidin Ashoori, Amanda Corder,
+  Tara Gray, and Meng-Fen Wu.
+\newblock Human epidermal growth factor receptor 2 (her2) –specific chimeric
+  antigen receptor–modified t cells for the immunotherapy of her2-positive
+  sarcoma.
+\newblock \emph{Journal of Clinical Oncology}, 33\penalty0 (15), 2015.
+
+\bibitem[Lamers et~al.(2013)Lamers, Sleijfer, van Steenbergen, van Elzakker,
+  van Krimpen, Groot, Vulto, den Bakker, Oosterwijk, Debets, and
+  Gratama]{on-target}
+Cor~HJ Lamers, Stefan Sleijfer, Sabine van Steenbergen, Pascal van Elzakker,
+  Brigitte van Krimpen, Corrien Groot, Arnold Vulto, Michael den Bakker, Egbert
+  Oosterwijk, Reno Debets, and Jan~W Gratama.
+\newblock Treatment of metastatic renal cell carcinoma with caix car-engineered
+  t cells: Clinical evaluation and management of on-target toxicity.
+\newblock \emph{Molecular Therapy}, 21\penalty0 (4), 2013.
+
+\bibitem[Morgan et~al.(2010)Morgan, Yang, Kitano, Dudley, Laurencot, and
+  Rosenberg]{fatal}
+Richard~A Morgan, James~C Yang, Mio Kitano, Mark~E Dudley, Carolyn~M Laurencot,
+  and Steven~A Rosenberg.
+\newblock Case report of a serious adverse event following the administration
+  of t cells transduced with a chimeric antigen receptor recognizing erbb2.
+\newblock \emph{Molecular Therapy}, 18\penalty0 (4), 2010.
+
+\bibitem[JT et~al.(2018)JT, X, J, V, CL, J, IH, SH, AA, AR, BC, and
+  et.al]{organoid}
+Neal JT, Li~X, Zhu J, Giangarra V, Grzeskowiak CL, Ju~J, Liu IH, Chiou SH,
+  Salahudeen AA, Smith AR, Deutsch BC, and Liao~L et.al.
+\newblock Organoid modeling of the tumor immune microenvironment.
+\newblock \emph{Cell}, 175, 2018.
+
+\bibitem[F et~al.(2017)F, SH, RK, J, J, M, RC, CW, and M]{trans}
+Perna F, Berman SH, Soni RK, Mansilla-Soto J, Eyquem J, Hamieh M, Hendrickson
+  RC, Brennan CW, and Sadelain M.
+\newblock Integrating proteomics and transcriptomics for systematic
+  combinatorial chimeric antigen receptor therapy of aml.
+\newblock \emph{Cancer Cell}, 32, 2017.
+
+\bibitem[Salter et~al.(2018)Salter, Ivey, Kennedy, Voillet, Rajan, Alderman,
+  Voytovich, Lin, Sommermeyer, Liu, Whiteaker, Gottardo, Paulovich, and
+  Riddell]{trans-2}
+Alexander~I. Salter, Richard~G. Ivey, Jacob~J. Kennedy, Valentin Voillet,
+  Anusha Rajan, Eva~J. Alderman, Uliana~J. Voytovich, Chenwei Lin, Daniel
+  Sommermeyer, Lingfeng Liu, Jeffrey~R. Whiteaker, Raphael Gottardo, Amanda~G.
+  Paulovich, and Stanley~R. Riddell.
+\newblock Phosphoproteomic analysis of chimeric antigen receptor signaling
+  reveals kinetic and quantitative differences that affect cell function.
+\newblock \emph{Science Signaling}, 11, 2018.
 
 \end{thebibliography}

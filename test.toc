@@ -1,15 +1,19 @@
-\contentsline {section}{\numberline {1}Introduction}{4}
-\contentsline {section}{\numberline {2}Efficacy}{5}
-\contentsline {subsection}{\numberline {2.1}Current Targets}{5}
-\contentsline {subsection}{\numberline {2.2}Opimal Host Cell}{5}
-\contentsline {subsubsection}{CD8+ T Cell}{5}
-\contentsline {subsubsection}{CD4+ T cell}{5}
-\contentsline {subsection}{\numberline {2.3}Gene Delivery Systems}{5}
-\contentsline {subsection}{\numberline {2.4}Cell Expansion Systems}{5}
-\contentsline {section}{\numberline {3}Discussion and Future Direction}{6}
-\contentsline {subsection}{\numberline {3.1}Limitation, Side Effects}{6}
-\contentsline {subsubsection}{Tumour micro-environment}{6}
-\contentsline {subsubsection}{T Cell Survival}{6}
-\contentsline {subsubsection}{Toxicity/Graft Versus Host Disease}{6}
-\contentsline {subsubsection}{T Cell Trafficking}{6}
-\contentsline {section}{\numberline {4}Conclusion}{7}
+\contentsline {section}{\numberline {1}Introduction}{4}{section.0.1}
+\contentsline {subsection}{\numberline {1.1}Design of CAR T Cell}{4}{subsection.0.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Spacer Domain}{7}{subsubsection.0.1.1.1}
+\contentsline {section}{\numberline {2}Current Understanding}{8}{section.0.2}
+\contentsline {subsection}{\numberline {2.1}Major Target}{8}{subsection.0.2.1}
+\contentsline {subsection}{\numberline {2.2}Toxicity}{9}{subsection.0.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Cytokine Release Syndrome (CRS)}{9}{subsubsection.0.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Neurotoxicity}{11}{subsubsection.0.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Anaphylaxis}{13}{subsubsection.0.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}On-Target/Off-Tumour}{14}{subsubsection.0.2.2.4}
+\contentsline {section}{\numberline {3}Future CAR development}{14}{section.0.3}
+\contentsline {subsection}{\numberline {3.1}Challenges in Designing CAR T-Cell for Solid Tumours}{15}{subsection.0.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Trafficking}{15}{subsubsection.0.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Infiltration}{18}{subsubsection.0.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Microenvironment}{19}{subsubsection.0.3.1.3}
+\contentsline {subsection}{\numberline {3.2}Additional Tools}{24}{subsection.0.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Safety/Efficacy Monitoring: Organoid}{24}{subsubsection.0.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Incorporation of Transcriptomics/Proteomics Data}{26}{subsubsection.0.3.2.2}
+\contentsline {section}{\numberline {4}Conclusion}{27}{section.0.4}
